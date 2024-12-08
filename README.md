@@ -17,7 +17,7 @@
 ![Dungeon](images/Dungeon.png)
 
 ## Well
-![Well](images/Well.png)
+![Well](images/Well.webp)
 
 ## Impostor
 ![Impostor](images/Impostor.png)
